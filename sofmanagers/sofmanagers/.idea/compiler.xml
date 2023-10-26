@@ -9,26 +9,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api-gateway" />
         <module name="gestion-application" />
-        <module name="gestion-notifications" />
         <module name="discovery-server" />
         <module name="gestion-talent" />
+        <module name="authUserAndNotifications" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="api-gateway" target="1.8" />
-      <module name="discovery-server" target="1.8" />
-      <module name="gestion-application" target="1.8" />
-      <module name="gestion-notifications" target="1.8" />
-      <module name="gestion-talent" target="1.8" />
-      <module name="sofmanagers" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api-gateway" options="-parameters" />
+      <module name="authUserAndNotifications" options="-parameters" />
       <module name="discovery-server" options="-parameters" />
       <module name="gestion-application" options="-parameters" />
-      <module name="gestion-notifications" options="-parameters" />
       <module name="gestion-talent" options="-parameters" />
     </option>
   </component>
