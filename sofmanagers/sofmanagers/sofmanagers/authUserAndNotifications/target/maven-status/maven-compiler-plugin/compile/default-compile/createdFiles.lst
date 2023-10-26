@@ -1,0 +1,11 @@
+com\Sofrecom\authUserandNotifications\controller\NotificationController.class
+com\Sofrecom\authUserandNotifications\service\KeycloakUserService.class
+com\Sofrecom\authUserandNotifications\controller\UserController.class
+com\Sofrecom\authUserandNotifications\service\NotificationService$1.class
+com\Sofrecom\authUserandNotifications\repository\NotificationRepository.class
+com\Sofrecom\authUserandNotifications\dto\UserInfo.class
+com\Sofrecom\authUserandNotifications\GestionUserandNotificationApplication.class
+com\Sofrecom\authUserandNotifications\dto\Notificationdto.class
+com\Sofrecom\authUserandNotifications\service\NotificationService.class
+com\Sofrecom\authUserandNotifications\service\UserService.class
+com\Sofrecom\authUserandNotifications\model\Notification.class
